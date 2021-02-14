@@ -44,7 +44,7 @@ body {
 .header {
     padding: 20px 0px;
     border: 1px solid black;
-    background: url(img/patern_2.jpg);
+    background: url(patern_2.jpg);
 }
 .menu {
     max-width: 600px;
